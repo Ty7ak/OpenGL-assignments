@@ -7,7 +7,7 @@ import math
 import numpy
 from PIL import Image
 
-WELCOMING_MESSAGE = "Maciej Tylak 248884 - Zadanie 4 \n"
+WELCOMING_MESSAGE = "Maciej Tylak 248884 - Zadanie 5 \n"
 CONTROLS = "Sterowanie: \n" \
            "1 - obrot wokół osi y \n" \
            "2 - obrot wokół osi x \n" \

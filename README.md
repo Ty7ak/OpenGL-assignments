@@ -1,3 +1,3 @@
-Nr indeksu - 248884
+# University excersises using OpenGL
 
-Maciej Tylak
+This repo contains 5 assignments needed to pass the Computer Graphics class. It uses python's OpenGL module.
